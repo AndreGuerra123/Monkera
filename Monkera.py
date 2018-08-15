@@ -26,7 +26,6 @@ from PIL import Image
 
 import pydash as p_
 import collections
-import scipy
 
 import keras
 import random
